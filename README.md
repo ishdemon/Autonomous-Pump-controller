@@ -1,4 +1,4 @@
-# Autonomous-Pump-controller
+# WiFi Autonomous-Pump-controller
 A fully automatic water pump controller that takes care of filling your Overhead Tank with Wifi control (Blynk). Works offline too. Also monitors AC supply. (PZEM-004t). The sensor module is on ESP8266 and sends data to ESP32(Main module) via ESP NOW.
 
 
