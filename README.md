@@ -5,7 +5,10 @@ A fully automatic water pump controller that takes care of filling your Overhead
 <h2>Blynk App </h2>
 <img src="/images/app.jpg" width="300" height="600">
 
-<h2>Finished </h2>
+<h2>Wiring hell! Must use PCB! </h2>
+<img src="/images/internal.jpg" width="500" height="500">
+
+<h2>Finished Box </h2>
 <img src="/images/finished.jpg" width="300" height="500">
 
 <h2> Features</h2>
